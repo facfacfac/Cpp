@@ -32,6 +32,8 @@ void sumarDe4en4(int nume[], int tama, int sumaNum[]){
   }
 }
 
+//probando
+
 int main(){
   int num = 10;
   string juegos[num];
@@ -40,6 +42,8 @@ int main(){
   int numero1 = 2;
   int numero2 = 0;
   int notas[] = {8,4,9};
+
+  //Probando
 
   /*cout << "¿Cuántos juegos quieres introducir?";
   cin >> numJuegos;
